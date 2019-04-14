@@ -20,8 +20,8 @@ class TestCaseRun(unittest.TestCase):
         self.uri = 'http://dating.ru'
         self.user = 'Alexey'
 
-        mail = 'moalexey@gmail.com'
-        password = 'u8PZ3EE2vP'
+        mail = 'my_mail@gmail.com'
+        password = 'my_password'
 
         self.test_image_uri = 'http://dating.ru/get_image.php?oid=149661164'
         self.file_type = 'image/JPEG'
