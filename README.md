@@ -1,2 +1,2 @@
 # dating_ru_bot
-Functions to download images of full size
+Functions for download to local machine pictures of full size from dating.ru
